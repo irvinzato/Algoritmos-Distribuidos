@@ -1,0 +1,453 @@
+-- ALERTA -> Soy el nodo  1  recibi un EXPIRAT2  en el tiempo 3.0 del nodo 1
+**Soy el nodo  1  MANDE ELECCION de 1  al nodo  2  en el tiempo 3.0
+**Soy el nodo  1  MANDE ELECCION de 1  al nodo  3  en el tiempo 3.0
+**Soy el nodo  1  MANDE ELECCION de 1  al nodo  4  en el tiempo 3.0
+**Soy el nodo  1  MANDE ELECCION de 1  al nodo  5  en el tiempo 3.0
+-- ALERTA -> Soy el nodo  2  recibi un EXPIRAT2  en el tiempo 3.0 del nodo 2
+**Soy el nodo  2  MANDE ELECCION de 2  al nodo  1  en el tiempo 3.0
+**Soy el nodo  2  MANDE ELECCION de 2  al nodo  3  en el tiempo 3.0
+**Soy el nodo  2  MANDE ELECCION de 2  al nodo  4  en el tiempo 3.0
+**Soy el nodo  2  MANDE ELECCION de 2  al nodo  5  en el tiempo 3.0
+-- ALERTA -> Soy el nodo  3  recibi un EXPIRAT2  en el tiempo 3.0 del nodo 3
+**Soy el nodo  3  MANDE ELECCION de 3  al nodo  1  en el tiempo 3.0
+**Soy el nodo  3  MANDE ELECCION de 3  al nodo  2  en el tiempo 3.0
+**Soy el nodo  3  MANDE ELECCION de 3  al nodo  4  en el tiempo 3.0
+**Soy el nodo  3  MANDE ELECCION de 3  al nodo  5  en el tiempo 3.0
+-- ALERTA -> Soy el nodo  4  recibi un EXPIRAT2  en el tiempo 3.0 del nodo 4
+**Soy el nodo  4  MANDE ELECCION de 4  al nodo  1  en el tiempo 3.0
+**Soy el nodo  4  MANDE ELECCION de 4  al nodo  2  en el tiempo 3.0
+**Soy el nodo  4  MANDE ELECCION de 4  al nodo  3  en el tiempo 3.0
+**Soy el nodo  4  MANDE ELECCION de 4  al nodo  5  en el tiempo 3.0
+-- ALERTA -> Soy el nodo  5  recibi un EXPIRAT2  en el tiempo 3.0 del nodo 5
+**Soy el nodo  5  MANDE ELECCION de 5  al nodo  1  en el tiempo 3.0
+**Soy el nodo  5  MANDE ELECCION de 5  al nodo  2  en el tiempo 3.0
+**Soy el nodo  5  MANDE ELECCION de 5  al nodo  3  en el tiempo 3.0
+**Soy el nodo  5  MANDE ELECCION de 5  al nodo  4  en el tiempo 3.0
+!! ELECCION -> Soy el nodo  1  recibi un EXPIRAT3 a las 6.0 del nodo 1
+!! ELECCION -> Soy el nodo  2  recibi un EXPIRAT3 a las 6.0 del nodo 2
+!! ELECCION -> Soy el nodo  3  recibi un EXPIRAT3 a las 6.0 del nodo 3
+!! ELECCION -> Soy el nodo  4  recibi un EXPIRAT3 a las 6.0 del nodo 4
+!! ELECCION -> Soy el nodo  5  recibi un EXPIRAT3 a las 6.0 del nodo 5
+     SOY EL NODO 5  SOY EL NUEVO LIDER
+|||| LIDER -> Soy el nodo  5  recibi un EXPIRAT1 a las 8.0 del nodo 5
+-- ALERTA -> Soy el nodo  1  recibi un HB  en el tiempo 9.0 del nodo 5
+-- ALERTA -> Soy el nodo  2  recibi un HB  en el tiempo 9.0 del nodo 5
+-- ALERTA -> Soy el nodo  3  recibi un HB  en el tiempo 9.0 del nodo 5
+-- ALERTA -> Soy el nodo  4  recibi un HB  en el tiempo 9.0 del nodo 5
+|||| LIDER -> Soy el nodo  5  recibi un EXPIRAT1 a las 10.0 del nodo 5
+|||| LIDER -> Soy el nodo  5  recibi un OK a las 10.0 del nodo 1
+|||| LIDER -> Soy el nodo  5  recibi un OK a las 10.0 del nodo 2
+|||| LIDER -> Soy el nodo  5  recibi un OK a las 10.0 del nodo 3
+|||| LIDER -> Soy el nodo  5  recibi un OK a las 10.0 del nodo 4
+NO_LIDER -> Soy el nodo 1 y recibi un HB a las 11.0 del nodo 5
+OKOKOK Soy el nodo 1  MANDE OK al nodo 5  en el tiempo 11.0
+NO_LIDER -> Soy el nodo 2 y recibi un HB a las 11.0 del nodo 5
+OKOKOK Soy el nodo 2  MANDE OK al nodo 5  en el tiempo 11.0
+NO_LIDER -> Soy el nodo 3 y recibi un HB a las 11.0 del nodo 5
+OKOKOK Soy el nodo 3  MANDE OK al nodo 5  en el tiempo 11.0
+NO_LIDER -> Soy el nodo 4 y recibi un HB a las 11.0 del nodo 5
+OKOKOK Soy el nodo 4  MANDE OK al nodo 5  en el tiempo 11.0
+|||| LIDER -> Soy el nodo  5  recibi un EXPIRAT1 a las 12.0 del nodo 5
+|||| LIDER -> Soy el nodo  5  recibi un OK a las 12.0 del nodo 1
+|||| LIDER -> Soy el nodo  5  recibi un OK a las 12.0 del nodo 2
+|||| LIDER -> Soy el nodo  5  recibi un OK a las 12.0 del nodo 3
+|||| LIDER -> Soy el nodo  5  recibi un OK a las 12.0 del nodo 4
+-- ALERTA -> Soy el nodo  1  recibi un HB  en el tiempo 13.0 del nodo 5
+-- ALERTA -> Soy el nodo  2  recibi un HB  en el tiempo 13.0 del nodo 5
+-- ALERTA -> Soy el nodo  3  recibi un HB  en el tiempo 13.0 del nodo 5
+-- ALERTA -> Soy el nodo  4  recibi un HB  en el tiempo 13.0 del nodo 5
+|||| LIDER -> Soy el nodo  5  recibi un EXPIRAT1 a las 14.0 del nodo 5
+|||| LIDER -> Soy el nodo  5  recibi un OK a las 14.0 del nodo 1
+|||| LIDER -> Soy el nodo  5  recibi un OK a las 14.0 del nodo 2
+|||| LIDER -> Soy el nodo  5  recibi un OK a las 14.0 del nodo 3
+|||| LIDER -> Soy el nodo  5  recibi un OK a las 14.0 del nodo 4
+-- ALERTA -> Soy el nodo  1  recibi un HB  en el tiempo 15.0 del nodo 5
+-- ALERTA -> Soy el nodo  2  recibi un HB  en el tiempo 15.0 del nodo 5
+-- ALERTA -> Soy el nodo  3  recibi un HB  en el tiempo 15.0 del nodo 5
+-- ALERTA -> Soy el nodo  4  recibi un HB  en el tiempo 15.0 del nodo 5
+     SOY EL NODO  5  ESTOY EN FALLA
+     SOY EL NODO  5  ESTOY EN FALLA
+     SOY EL NODO  5  ESTOY EN FALLA
+     SOY EL NODO  5  ESTOY EN FALLA
+     SOY EL NODO  5  ESTOY EN FALLA
+-- ALERTA -> Soy el nodo  1  recibi un EXPIRAT2  en el tiempo 18.0 del nodo 1
+**Soy el nodo  1  MANDE ELECCION de 1  al nodo  2  en el tiempo 18.0
+**Soy el nodo  1  MANDE ELECCION de 1  al nodo  3  en el tiempo 18.0
+**Soy el nodo  1  MANDE ELECCION de 1  al nodo  4  en el tiempo 18.0
+**Soy el nodo  1  MANDE ELECCION de 1  al nodo  5  en el tiempo 18.0
+-- ALERTA -> Soy el nodo  2  recibi un EXPIRAT2  en el tiempo 18.0 del nodo 2
+**Soy el nodo  2  MANDE ELECCION de 2  al nodo  1  en el tiempo 18.0
+**Soy el nodo  2  MANDE ELECCION de 2  al nodo  3  en el tiempo 18.0
+**Soy el nodo  2  MANDE ELECCION de 2  al nodo  4  en el tiempo 18.0
+**Soy el nodo  2  MANDE ELECCION de 2  al nodo  5  en el tiempo 18.0
+-- ALERTA -> Soy el nodo  3  recibi un EXPIRAT2  en el tiempo 18.0 del nodo 3
+**Soy el nodo  3  MANDE ELECCION de 3  al nodo  1  en el tiempo 18.0
+**Soy el nodo  3  MANDE ELECCION de 3  al nodo  2  en el tiempo 18.0
+**Soy el nodo  3  MANDE ELECCION de 3  al nodo  4  en el tiempo 18.0
+**Soy el nodo  3  MANDE ELECCION de 3  al nodo  5  en el tiempo 18.0
+-- ALERTA -> Soy el nodo  4  recibi un EXPIRAT2  en el tiempo 18.0 del nodo 4
+**Soy el nodo  4  MANDE ELECCION de 4  al nodo  1  en el tiempo 18.0
+**Soy el nodo  4  MANDE ELECCION de 4  al nodo  2  en el tiempo 18.0
+**Soy el nodo  4  MANDE ELECCION de 4  al nodo  3  en el tiempo 18.0
+**Soy el nodo  4  MANDE ELECCION de 4  al nodo  5  en el tiempo 18.0
+     SOY EL NODO  5  ESTOY EN FALLA
+     SOY EL NODO  5  ESTOY EN FALLA
+     SOY EL NODO  5  ESTOY EN FALLA
+     SOY EL NODO  5  ESTOY EN FALLA
+!! ELECCION -> Soy el nodo  1  recibi un EXPIRAT2 a las 21.0 del nodo 1
+!! ELECCION -> Soy el nodo  2  recibi un EXPIRAT2 a las 21.0 del nodo 2
+!! ELECCION -> Soy el nodo  3  recibi un EXPIRAT2 a las 21.0 del nodo 3
+!! ELECCION -> Soy el nodo  4  recibi un EXPIRAT2 a las 21.0 del nodo 4
+!! ELECCION -> Soy el nodo  1  recibi un EXPIRAT3 a las 21.0 del nodo 1
+!! ELECCION -> Soy el nodo  2  recibi un EXPIRAT3 a las 21.0 del nodo 2
+!! ELECCION -> Soy el nodo  3  recibi un EXPIRAT3 a las 21.0 del nodo 3
+!! ELECCION -> Soy el nodo  4  recibi un EXPIRAT3 a las 21.0 del nodo 4
+     SOY EL NODO 4  SOY EL NUEVO LIDER
+|||| LIDER -> Soy el nodo  4  recibi un EXPIRAT1 a las 23.0 del nodo 4
+-- ALERTA -> Soy el nodo  1  recibi un HB  en el tiempo 24.0 del nodo 4
+-- ALERTA -> Soy el nodo  2  recibi un HB  en el tiempo 24.0 del nodo 4
+-- ALERTA -> Soy el nodo  3  recibi un HB  en el tiempo 24.0 del nodo 4
+     SOY EL NODO  5  ESTOY EN FALLA
+|||| LIDER -> Soy el nodo  4  recibi un EXPIRAT1 a las 25.0 del nodo 4
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 25.0 del nodo 1
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 25.0 del nodo 2
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 25.0 del nodo 3
+NO_LIDER -> Soy el nodo 1 y recibi un HB a las 26.0 del nodo 4
+OKOKOK Soy el nodo 1  MANDE OK al nodo 4  en el tiempo 26.0
+NO_LIDER -> Soy el nodo 2 y recibi un HB a las 26.0 del nodo 4
+OKOKOK Soy el nodo 2  MANDE OK al nodo 4  en el tiempo 26.0
+NO_LIDER -> Soy el nodo 3 y recibi un HB a las 26.0 del nodo 4
+OKOKOK Soy el nodo 3  MANDE OK al nodo 4  en el tiempo 26.0
+     SOY EL NODO  5  ESTOY EN FALLA
+|||| LIDER -> Soy el nodo  4  recibi un EXPIRAT1 a las 27.0 del nodo 4
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 27.0 del nodo 1
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 27.0 del nodo 2
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 27.0 del nodo 3
+-- ALERTA -> Soy el nodo  1  recibi un HB  en el tiempo 28.0 del nodo 4
+-- ALERTA -> Soy el nodo  2  recibi un HB  en el tiempo 28.0 del nodo 4
+-- ALERTA -> Soy el nodo  3  recibi un HB  en el tiempo 28.0 del nodo 4
+     SOY EL NODO  5  ESTOY EN FALLA
+|||| LIDER -> Soy el nodo  4  recibi un EXPIRAT1 a las 29.0 del nodo 4
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 29.0 del nodo 1
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 29.0 del nodo 2
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 29.0 del nodo 3
+-- ALERTA -> Soy el nodo  1  recibi un HB  en el tiempo 30.0 del nodo 4
+-- ALERTA -> Soy el nodo  2  recibi un HB  en el tiempo 30.0 del nodo 4
+-- ALERTA -> Soy el nodo  3  recibi un HB  en el tiempo 30.0 del nodo 4
+     SOY EL NODO  5  ESTOY EN FALLA
+|||| LIDER -> Soy el nodo  4  recibi un EXPIRAT1 a las 31.0 del nodo 4
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 31.0 del nodo 1
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 31.0 del nodo 2
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 31.0 del nodo 3
+NO_LIDER -> Soy el nodo 1 y recibi un HB a las 32.0 del nodo 4
+OKOKOK Soy el nodo 1  MANDE OK al nodo 4  en el tiempo 32.0
+NO_LIDER -> Soy el nodo 2 y recibi un HB a las 32.0 del nodo 4
+OKOKOK Soy el nodo 2  MANDE OK al nodo 4  en el tiempo 32.0
+NO_LIDER -> Soy el nodo 3 y recibi un HB a las 32.0 del nodo 4
+OKOKOK Soy el nodo 3  MANDE OK al nodo 4  en el tiempo 32.0
+     SOY EL NODO  5  ESTOY EN FALLA
+|||| LIDER -> Soy el nodo  4  recibi un EXPIRAT1 a las 33.0 del nodo 4
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 33.0 del nodo 1
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 33.0 del nodo 2
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 33.0 del nodo 3
+-- ALERTA -> Soy el nodo  1  recibi un HB  en el tiempo 34.0 del nodo 4
+-- ALERTA -> Soy el nodo  2  recibi un HB  en el tiempo 34.0 del nodo 4
+-- ALERTA -> Soy el nodo  3  recibi un HB  en el tiempo 34.0 del nodo 4
+     SOY EL NODO  5  ESTOY EN FALLA
+|||| LIDER -> Soy el nodo  4  recibi un EXPIRAT1 a las 35.0 del nodo 4
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 35.0 del nodo 1
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 35.0 del nodo 2
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 35.0 del nodo 3
+-- ALERTA -> Soy el nodo  1  recibi un HB  en el tiempo 36.0 del nodo 4
+-- ALERTA -> Soy el nodo  2  recibi un HB  en el tiempo 36.0 del nodo 4
+-- ALERTA -> Soy el nodo  3  recibi un HB  en el tiempo 36.0 del nodo 4
+     SOY EL NODO  5  ESTOY EN FALLA
+|||| LIDER -> Soy el nodo  4  recibi un EXPIRAT1 a las 37.0 del nodo 4
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 37.0 del nodo 1
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 37.0 del nodo 2
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 37.0 del nodo 3
+NO_LIDER -> Soy el nodo 1 y recibi un HB a las 38.0 del nodo 4
+OKOKOK Soy el nodo 1  MANDE OK al nodo 4  en el tiempo 38.0
+NO_LIDER -> Soy el nodo 2 y recibi un HB a las 38.0 del nodo 4
+OKOKOK Soy el nodo 2  MANDE OK al nodo 4  en el tiempo 38.0
+NO_LIDER -> Soy el nodo 3 y recibi un HB a las 38.0 del nodo 4
+OKOKOK Soy el nodo 3  MANDE OK al nodo 4  en el tiempo 38.0
+     SOY EL NODO  5  ESTOY EN FALLA
+|||| LIDER -> Soy el nodo  4  recibi un EXPIRAT1 a las 39.0 del nodo 4
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 39.0 del nodo 1
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 39.0 del nodo 2
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 39.0 del nodo 3
+-- ALERTA -> Soy el nodo  1  recibi un HB  en el tiempo 40.0 del nodo 4
+-- ALERTA -> Soy el nodo  2  recibi un HB  en el tiempo 40.0 del nodo 4
+-- ALERTA -> Soy el nodo  3  recibi un HB  en el tiempo 40.0 del nodo 4
+     SOY EL NODO  5  ESTOY EN FALLA
+|||| LIDER -> Soy el nodo  4  recibi un EXPIRAT1 a las 41.0 del nodo 4
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 41.0 del nodo 1
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 41.0 del nodo 2
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 41.0 del nodo 3
+-- ALERTA -> Soy el nodo  1  recibi un HB  en el tiempo 42.0 del nodo 4
+-- ALERTA -> Soy el nodo  2  recibi un HB  en el tiempo 42.0 del nodo 4
+-- ALERTA -> Soy el nodo  3  recibi un HB  en el tiempo 42.0 del nodo 4
+     SOY EL NODO  5  ESTOY EN FALLA
+|||| LIDER -> Soy el nodo  4  recibi un EXPIRAT1 a las 43.0 del nodo 4
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 43.0 del nodo 1
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 43.0 del nodo 2
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 43.0 del nodo 3
+NO_LIDER -> Soy el nodo 1 y recibi un HB a las 44.0 del nodo 4
+OKOKOK Soy el nodo 1  MANDE OK al nodo 4  en el tiempo 44.0
+NO_LIDER -> Soy el nodo 2 y recibi un HB a las 44.0 del nodo 4
+OKOKOK Soy el nodo 2  MANDE OK al nodo 4  en el tiempo 44.0
+NO_LIDER -> Soy el nodo 3 y recibi un HB a las 44.0 del nodo 4
+OKOKOK Soy el nodo 3  MANDE OK al nodo 4  en el tiempo 44.0
+     SOY EL NODO  5  ESTOY EN FALLA
+|||| LIDER -> Soy el nodo  4  recibi un EXPIRAT1 a las 45.0 del nodo 4
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 45.0 del nodo 1
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 45.0 del nodo 2
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 45.0 del nodo 3
+-- ALERTA -> Soy el nodo  1  recibi un HB  en el tiempo 46.0 del nodo 4
+-- ALERTA -> Soy el nodo  2  recibi un HB  en el tiempo 46.0 del nodo 4
+-- ALERTA -> Soy el nodo  3  recibi un HB  en el tiempo 46.0 del nodo 4
+     SOY EL NODO  5  ESTOY EN FALLA
+|||| LIDER -> Soy el nodo  4  recibi un EXPIRAT1 a las 47.0 del nodo 4
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 47.0 del nodo 1
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 47.0 del nodo 2
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 47.0 del nodo 3
+-- ALERTA -> Soy el nodo  1  recibi un HB  en el tiempo 48.0 del nodo 4
+-- ALERTA -> Soy el nodo  2  recibi un HB  en el tiempo 48.0 del nodo 4
+-- ALERTA -> Soy el nodo  3  recibi un HB  en el tiempo 48.0 del nodo 4
+     SOY EL NODO  5  ESTOY EN FALLA
+|||| LIDER -> Soy el nodo  4  recibi un EXPIRAT1 a las 49.0 del nodo 4
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 49.0 del nodo 1
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 49.0 del nodo 2
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 49.0 del nodo 3
+NO_LIDER -> Soy el nodo 1 y recibi un HB a las 50.0 del nodo 4
+OKOKOK Soy el nodo 1  MANDE OK al nodo 4  en el tiempo 50.0
+NO_LIDER -> Soy el nodo 2 y recibi un HB a las 50.0 del nodo 4
+OKOKOK Soy el nodo 2  MANDE OK al nodo 4  en el tiempo 50.0
+NO_LIDER -> Soy el nodo 3 y recibi un HB a las 50.0 del nodo 4
+OKOKOK Soy el nodo 3  MANDE OK al nodo 4  en el tiempo 50.0
+     SOY EL NODO  5  ESTOY EN FALLA
+|||| LIDER -> Soy el nodo  4  recibi un EXPIRAT1 a las 51.0 del nodo 4
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 51.0 del nodo 1
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 51.0 del nodo 2
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 51.0 del nodo 3
+-- ALERTA -> Soy el nodo  1  recibi un HB  en el tiempo 52.0 del nodo 4
+-- ALERTA -> Soy el nodo  2  recibi un HB  en el tiempo 52.0 del nodo 4
+-- ALERTA -> Soy el nodo  3  recibi un HB  en el tiempo 52.0 del nodo 4
+     SOY EL NODO  5  ESTOY EN FALLA
+|||| LIDER -> Soy el nodo  4  recibi un EXPIRAT1 a las 53.0 del nodo 4
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 53.0 del nodo 1
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 53.0 del nodo 2
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 53.0 del nodo 3
+-- ALERTA -> Soy el nodo  1  recibi un HB  en el tiempo 54.0 del nodo 4
+-- ALERTA -> Soy el nodo  2  recibi un HB  en el tiempo 54.0 del nodo 4
+-- ALERTA -> Soy el nodo  3  recibi un HB  en el tiempo 54.0 del nodo 4
+     SOY EL NODO  5  ESTOY EN FALLA
+|||| LIDER -> Soy el nodo  4  recibi un EXPIRAT1 a las 55.0 del nodo 4
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 55.0 del nodo 1
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 55.0 del nodo 2
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 55.0 del nodo 3
+NO_LIDER -> Soy el nodo 1 y recibi un HB a las 56.0 del nodo 4
+OKOKOK Soy el nodo 1  MANDE OK al nodo 4  en el tiempo 56.0
+NO_LIDER -> Soy el nodo 2 y recibi un HB a las 56.0 del nodo 4
+OKOKOK Soy el nodo 2  MANDE OK al nodo 4  en el tiempo 56.0
+NO_LIDER -> Soy el nodo 3 y recibi un HB a las 56.0 del nodo 4
+OKOKOK Soy el nodo 3  MANDE OK al nodo 4  en el tiempo 56.0
+     SOY EL NODO  5  ESTOY EN FALLA
+|||| LIDER -> Soy el nodo  4  recibi un EXPIRAT1 a las 57.0 del nodo 4
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 57.0 del nodo 1
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 57.0 del nodo 2
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 57.0 del nodo 3
+-- ALERTA -> Soy el nodo  1  recibi un HB  en el tiempo 58.0 del nodo 4
+-- ALERTA -> Soy el nodo  2  recibi un HB  en el tiempo 58.0 del nodo 4
+-- ALERTA -> Soy el nodo  3  recibi un HB  en el tiempo 58.0 del nodo 4
+     SOY EL NODO  5  ESTOY EN FALLA
+|||| LIDER -> Soy el nodo  4  recibi un EXPIRAT1 a las 59.0 del nodo 4
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 59.0 del nodo 1
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 59.0 del nodo 2
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 59.0 del nodo 3
+-- ALERTA -> Soy el nodo  1  recibi un HB  en el tiempo 60.0 del nodo 4
+-- ALERTA -> Soy el nodo  2  recibi un HB  en el tiempo 60.0 del nodo 4
+-- ALERTA -> Soy el nodo  3  recibi un HB  en el tiempo 60.0 del nodo 4
+     SOY EL NODO  5  ESTOY EN FALLA
+|||| LIDER -> Soy el nodo  4  recibi un EXPIRAT1 a las 61.0 del nodo 4
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 61.0 del nodo 1
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 61.0 del nodo 2
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 61.0 del nodo 3
+NO_LIDER -> Soy el nodo 1 y recibi un HB a las 62.0 del nodo 4
+OKOKOK Soy el nodo 1  MANDE OK al nodo 4  en el tiempo 62.0
+NO_LIDER -> Soy el nodo 2 y recibi un HB a las 62.0 del nodo 4
+OKOKOK Soy el nodo 2  MANDE OK al nodo 4  en el tiempo 62.0
+NO_LIDER -> Soy el nodo 3 y recibi un HB a las 62.0 del nodo 4
+OKOKOK Soy el nodo 3  MANDE OK al nodo 4  en el tiempo 62.0
+     SOY EL NODO  5  ESTOY EN FALLA
+|||| LIDER -> Soy el nodo  4  recibi un EXPIRAT1 a las 63.0 del nodo 4
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 63.0 del nodo 1
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 63.0 del nodo 2
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 63.0 del nodo 3
+-- ALERTA -> Soy el nodo  1  recibi un HB  en el tiempo 64.0 del nodo 4
+-- ALERTA -> Soy el nodo  2  recibi un HB  en el tiempo 64.0 del nodo 4
+-- ALERTA -> Soy el nodo  3  recibi un HB  en el tiempo 64.0 del nodo 4
+     SOY EL NODO  5  ESTOY EN FALLA
+|||| LIDER -> Soy el nodo  4  recibi un EXPIRAT1 a las 65.0 del nodo 4
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 65.0 del nodo 1
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 65.0 del nodo 2
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 65.0 del nodo 3
+-- ALERTA -> Soy el nodo  1  recibi un HB  en el tiempo 66.0 del nodo 4
+-- ALERTA -> Soy el nodo  2  recibi un HB  en el tiempo 66.0 del nodo 4
+-- ALERTA -> Soy el nodo  3  recibi un HB  en el tiempo 66.0 del nodo 4
+     SOY EL NODO  5  ESTOY EN FALLA
+|||| LIDER -> Soy el nodo  4  recibi un EXPIRAT1 a las 67.0 del nodo 4
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 67.0 del nodo 1
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 67.0 del nodo 2
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 67.0 del nodo 3
+NO_LIDER -> Soy el nodo 1 y recibi un HB a las 68.0 del nodo 4
+OKOKOK Soy el nodo 1  MANDE OK al nodo 4  en el tiempo 68.0
+NO_LIDER -> Soy el nodo 2 y recibi un HB a las 68.0 del nodo 4
+OKOKOK Soy el nodo 2  MANDE OK al nodo 4  en el tiempo 68.0
+NO_LIDER -> Soy el nodo 3 y recibi un HB a las 68.0 del nodo 4
+OKOKOK Soy el nodo 3  MANDE OK al nodo 4  en el tiempo 68.0
+     SOY EL NODO  5  ESTOY EN FALLA
+|||| LIDER -> Soy el nodo  4  recibi un EXPIRAT1 a las 69.0 del nodo 4
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 69.0 del nodo 1
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 69.0 del nodo 2
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 69.0 del nodo 3
+-- ALERTA -> Soy el nodo  1  recibi un HB  en el tiempo 70.0 del nodo 4
+-- ALERTA -> Soy el nodo  2  recibi un HB  en el tiempo 70.0 del nodo 4
+-- ALERTA -> Soy el nodo  3  recibi un HB  en el tiempo 70.0 del nodo 4
+     SOY EL NODO  5  ESTOY EN FALLA
+|||| LIDER -> Soy el nodo  4  recibi un EXPIRAT1 a las 71.0 del nodo 4
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 71.0 del nodo 1
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 71.0 del nodo 2
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 71.0 del nodo 3
+-- ALERTA -> Soy el nodo  1  recibi un HB  en el tiempo 72.0 del nodo 4
+-- ALERTA -> Soy el nodo  2  recibi un HB  en el tiempo 72.0 del nodo 4
+-- ALERTA -> Soy el nodo  3  recibi un HB  en el tiempo 72.0 del nodo 4
+     SOY EL NODO  5  ESTOY EN FALLA
+|||| LIDER -> Soy el nodo  4  recibi un EXPIRAT1 a las 73.0 del nodo 4
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 73.0 del nodo 1
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 73.0 del nodo 2
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 73.0 del nodo 3
+NO_LIDER -> Soy el nodo 1 y recibi un HB a las 74.0 del nodo 4
+OKOKOK Soy el nodo 1  MANDE OK al nodo 4  en el tiempo 74.0
+NO_LIDER -> Soy el nodo 2 y recibi un HB a las 74.0 del nodo 4
+OKOKOK Soy el nodo 2  MANDE OK al nodo 4  en el tiempo 74.0
+NO_LIDER -> Soy el nodo 3 y recibi un HB a las 74.0 del nodo 4
+OKOKOK Soy el nodo 3  MANDE OK al nodo 4  en el tiempo 74.0
+     SOY EL NODO  5  ESTOY EN FALLA
+|||| LIDER -> Soy el nodo  4  recibi un EXPIRAT1 a las 75.0 del nodo 4
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 75.0 del nodo 1
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 75.0 del nodo 2
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 75.0 del nodo 3
+-- ALERTA -> Soy el nodo  1  recibi un HB  en el tiempo 76.0 del nodo 4
+-- ALERTA -> Soy el nodo  2  recibi un HB  en el tiempo 76.0 del nodo 4
+-- ALERTA -> Soy el nodo  3  recibi un HB  en el tiempo 76.0 del nodo 4
+     SOY EL NODO  5  ESTOY EN FALLA
+|||| LIDER -> Soy el nodo  4  recibi un EXPIRAT1 a las 77.0 del nodo 4
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 77.0 del nodo 1
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 77.0 del nodo 2
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 77.0 del nodo 3
+-- ALERTA -> Soy el nodo  1  recibi un HB  en el tiempo 78.0 del nodo 4
+-- ALERTA -> Soy el nodo  2  recibi un HB  en el tiempo 78.0 del nodo 4
+-- ALERTA -> Soy el nodo  3  recibi un HB  en el tiempo 78.0 del nodo 4
+     SOY EL NODO  5  ESTOY EN FALLA
+|||| LIDER -> Soy el nodo  4  recibi un EXPIRAT1 a las 79.0 del nodo 4
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 79.0 del nodo 1
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 79.0 del nodo 2
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 79.0 del nodo 3
+NO_LIDER -> Soy el nodo 1 y recibi un HB a las 80.0 del nodo 4
+OKOKOK Soy el nodo 1  MANDE OK al nodo 4  en el tiempo 80.0
+NO_LIDER -> Soy el nodo 2 y recibi un HB a las 80.0 del nodo 4
+OKOKOK Soy el nodo 2  MANDE OK al nodo 4  en el tiempo 80.0
+NO_LIDER -> Soy el nodo 3 y recibi un HB a las 80.0 del nodo 4
+OKOKOK Soy el nodo 3  MANDE OK al nodo 4  en el tiempo 80.0
+     SOY EL NODO  5  ESTOY EN FALLA
+|||| LIDER -> Soy el nodo  4  recibi un EXPIRAT1 a las 81.0 del nodo 4
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 81.0 del nodo 1
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 81.0 del nodo 2
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 81.0 del nodo 3
+-- ALERTA -> Soy el nodo  1  recibi un HB  en el tiempo 82.0 del nodo 4
+-- ALERTA -> Soy el nodo  2  recibi un HB  en el tiempo 82.0 del nodo 4
+-- ALERTA -> Soy el nodo  3  recibi un HB  en el tiempo 82.0 del nodo 4
+     SOY EL NODO  5  ESTOY EN FALLA
+|||| LIDER -> Soy el nodo  4  recibi un EXPIRAT1 a las 83.0 del nodo 4
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 83.0 del nodo 1
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 83.0 del nodo 2
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 83.0 del nodo 3
+-- ALERTA -> Soy el nodo  1  recibi un HB  en el tiempo 84.0 del nodo 4
+-- ALERTA -> Soy el nodo  2  recibi un HB  en el tiempo 84.0 del nodo 4
+-- ALERTA -> Soy el nodo  3  recibi un HB  en el tiempo 84.0 del nodo 4
+     SOY EL NODO  5  ESTOY EN FALLA
+|||| LIDER -> Soy el nodo  4  recibi un EXPIRAT1 a las 85.0 del nodo 4
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 85.0 del nodo 1
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 85.0 del nodo 2
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 85.0 del nodo 3
+NO_LIDER -> Soy el nodo 1 y recibi un HB a las 86.0 del nodo 4
+OKOKOK Soy el nodo 1  MANDE OK al nodo 4  en el tiempo 86.0
+NO_LIDER -> Soy el nodo 2 y recibi un HB a las 86.0 del nodo 4
+OKOKOK Soy el nodo 2  MANDE OK al nodo 4  en el tiempo 86.0
+NO_LIDER -> Soy el nodo 3 y recibi un HB a las 86.0 del nodo 4
+OKOKOK Soy el nodo 3  MANDE OK al nodo 4  en el tiempo 86.0
+     SOY EL NODO  5  ESTOY EN FALLA
+|||| LIDER -> Soy el nodo  4  recibi un EXPIRAT1 a las 87.0 del nodo 4
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 87.0 del nodo 1
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 87.0 del nodo 2
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 87.0 del nodo 3
+-- ALERTA -> Soy el nodo  1  recibi un HB  en el tiempo 88.0 del nodo 4
+-- ALERTA -> Soy el nodo  2  recibi un HB  en el tiempo 88.0 del nodo 4
+-- ALERTA -> Soy el nodo  3  recibi un HB  en el tiempo 88.0 del nodo 4
+     SOY EL NODO  5  ESTOY EN FALLA
+|||| LIDER -> Soy el nodo  4  recibi un EXPIRAT1 a las 89.0 del nodo 4
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 89.0 del nodo 1
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 89.0 del nodo 2
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 89.0 del nodo 3
+-- ALERTA -> Soy el nodo  1  recibi un HB  en el tiempo 90.0 del nodo 4
+-- ALERTA -> Soy el nodo  2  recibi un HB  en el tiempo 90.0 del nodo 4
+-- ALERTA -> Soy el nodo  3  recibi un HB  en el tiempo 90.0 del nodo 4
+     SOY EL NODO  5  ESTOY EN FALLA
+|||| LIDER -> Soy el nodo  4  recibi un EXPIRAT1 a las 91.0 del nodo 4
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 91.0 del nodo 1
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 91.0 del nodo 2
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 91.0 del nodo 3
+NO_LIDER -> Soy el nodo 1 y recibi un HB a las 92.0 del nodo 4
+OKOKOK Soy el nodo 1  MANDE OK al nodo 4  en el tiempo 92.0
+NO_LIDER -> Soy el nodo 2 y recibi un HB a las 92.0 del nodo 4
+OKOKOK Soy el nodo 2  MANDE OK al nodo 4  en el tiempo 92.0
+NO_LIDER -> Soy el nodo 3 y recibi un HB a las 92.0 del nodo 4
+OKOKOK Soy el nodo 3  MANDE OK al nodo 4  en el tiempo 92.0
+     SOY EL NODO  5  ESTOY EN FALLA
+|||| LIDER -> Soy el nodo  4  recibi un EXPIRAT1 a las 93.0 del nodo 4
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 93.0 del nodo 1
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 93.0 del nodo 2
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 93.0 del nodo 3
+-- ALERTA -> Soy el nodo  1  recibi un HB  en el tiempo 94.0 del nodo 4
+-- ALERTA -> Soy el nodo  2  recibi un HB  en el tiempo 94.0 del nodo 4
+-- ALERTA -> Soy el nodo  3  recibi un HB  en el tiempo 94.0 del nodo 4
+     SOY EL NODO  5  ESTOY EN FALLA
+|||| LIDER -> Soy el nodo  4  recibi un EXPIRAT1 a las 95.0 del nodo 4
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 95.0 del nodo 1
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 95.0 del nodo 2
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 95.0 del nodo 3
+-- ALERTA -> Soy el nodo  1  recibi un HB  en el tiempo 96.0 del nodo 4
+-- ALERTA -> Soy el nodo  2  recibi un HB  en el tiempo 96.0 del nodo 4
+-- ALERTA -> Soy el nodo  3  recibi un HB  en el tiempo 96.0 del nodo 4
+     SOY EL NODO  5  ESTOY EN FALLA
+|||| LIDER -> Soy el nodo  4  recibi un EXPIRAT1 a las 97.0 del nodo 4
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 97.0 del nodo 1
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 97.0 del nodo 2
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 97.0 del nodo 3
+NO_LIDER -> Soy el nodo 1 y recibi un HB a las 98.0 del nodo 4
+OKOKOK Soy el nodo 1  MANDE OK al nodo 4  en el tiempo 98.0
+NO_LIDER -> Soy el nodo 2 y recibi un HB a las 98.0 del nodo 4
+OKOKOK Soy el nodo 2  MANDE OK al nodo 4  en el tiempo 98.0
+NO_LIDER -> Soy el nodo 3 y recibi un HB a las 98.0 del nodo 4
+OKOKOK Soy el nodo 3  MANDE OK al nodo 4  en el tiempo 98.0
+     SOY EL NODO  5  ESTOY EN FALLA
+|||| LIDER -> Soy el nodo  4  recibi un EXPIRAT1 a las 99.0 del nodo 4
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 99.0 del nodo 1
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 99.0 del nodo 2
+|||| LIDER -> Soy el nodo  4  recibi un OK a las 99.0 del nodo 3
+-- ALERTA -> Soy el nodo  1  recibi un HB  en el tiempo 100.0 del nodo 4
+-- ALERTA -> Soy el nodo  2  recibi un HB  en el tiempo 100.0 del nodo 4
+-- ALERTA -> Soy el nodo  3  recibi un HB  en el tiempo 100.0 del nodo 4
+     SOY EL NODO  5  ESTOY EN FALLA
